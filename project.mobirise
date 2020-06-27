@@ -76,7 +76,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 31,
     "versionPublish": "4.12.3",
-    "favicon": "@PROJECT_PATH@/assets/images/bhnutrition.ico",
+    "favicon": "@PROJECT_PATH@/assets/images/bhnutrition-1.ico",
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
