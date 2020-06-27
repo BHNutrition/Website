@@ -1640,7 +1640,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "true",
+            "slides__autoplay": "false",
             "slides__autoplayInterval": "3000",
             "slides__showBullets": true,
             "slides": [
